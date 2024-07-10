@@ -11,11 +11,6 @@ Sou um estudante apaixonado por programação. ate agora, em minha jornada, dese
 - AWS Cloud Practitioner
 - Desenvolvedor Front-End
 
-## 📩 Contato
-
-- **Email:** [danlima@example.com](mailto:danlima@example.com)
-- **LinkedIn:** [linkedin.com/in/danlima](https://www.linkedin.com/in/danlima)
-
 ## 💻 Tecnologias
 
 - HTML5
