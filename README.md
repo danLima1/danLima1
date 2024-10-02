@@ -4,7 +4,7 @@ Desenvolvedor apaixonado por tecnologia e inovação.
 
 ## 🚀 Sobre Mim
 
-Sou um entusiasta da programação com experiência em diversas tecnologias. Ao longo dos anos, desenvolvi habilidades em HTML, CSS, JavaScript, Node.js, e muito mais. Estou constantemente buscando melhorar e aprender novas ferramentas e frameworks.
+Sou um estudante de programação com experiência em diversas tecnologias. Ao longo dos anos, desenvolvi habilidades em HTML, CSS, JavaScript, Node.js, e muito mais. Estou constantemente buscando melhorar e aprender novas ferramentas e frameworks.
 
 ### Objetivo
 
