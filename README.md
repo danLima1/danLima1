@@ -1,4 +1,4 @@
-# Olá! Eu sou o Dan Lima. 🖖
+# Olá! Eu sou o Daniel Lima. 🖖
 
 Desenvolvedor apaixonado por tecnologia e inovação.
 
